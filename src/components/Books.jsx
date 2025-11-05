@@ -15,10 +15,11 @@ const Books = () => {
         {books.map((book, index) => (
           <div key={index} className="book-card">
             <img
-              src={`${import.meta.env.BASE_URL}images/${book.image}`}
+              src={`${import.meta.env.BASE_URL}/images/${book.image}`}
               alt={book.title}
               className="book-image"
             />
+
             <div className="book-info">
               <Link to={`/books/${index}`} className="book-title">
                 {book.title}

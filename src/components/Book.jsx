@@ -25,7 +25,7 @@ const Book = () => {
 
       <div className="book-details-card">
         <img
-          src={`/images/${book.image}`}
+          src={`${import.meta.env.BASE_URL}/images/${book.image}`}
           alt={book.title}
           className="book-details-image"
         />

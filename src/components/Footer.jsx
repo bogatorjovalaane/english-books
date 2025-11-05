@@ -4,7 +4,7 @@ const Footer = () => {
       <div className="footer-content">
         <div className="footer-logo">
           <img
-            src="/images/logo2.png"
+            src={`${import.meta.env.BASE_URL}/images/logo2.png`}
             alt="logo"
             className="footer-logo-img"
           />

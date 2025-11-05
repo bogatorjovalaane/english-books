@@ -2,7 +2,7 @@ const Content = () => {
   return (
     <main className="content-container">
       <img
-        src="/images/main_content.png"
+        src={`${import.meta.env.BASE_URL}/images/main_content.png`}
         alt="content"
         className="content-image"
       />
