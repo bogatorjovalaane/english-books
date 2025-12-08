@@ -129,5 +129,29 @@
     ],
     "read_aloud": "https://www.youtube.com/watch?v=2AUGGF9oIpg",
     "image": "book7.jpg"
+  },
+  {
+    "title": "I Am Enough",
+    "author": "Grace Byers",
+    "publisher": "Harper Collins",
+    "year": 2018,
+    "themes": ["self-acceptance", "diversity", "inclusion", "representation"],
+    "summary": "This is a book to remind students that, no matter their differences, they are enough just the way they are.",
+    "age_range": "7+",
+    "availability": "https://www.ester.ee/search~S1*est?/tI+Am+Enough/ti+am+enough/1%2C2%2C4%2CB/frameset&FF=ti+am+enough&2%2C%2C2",
+    "read_aloud": "https://www.youtube.com/watch?v=sqlte0VEHgU",
+    "image": "book8.jpg"
+  },
+  {
+    "title": "The Black Book of Colours",
+    "author": "Menena Cottin and Rosana Faría",
+    "publisher": "Groundwood Books",
+    "year": 2008,
+    "themes": ["diversity", "disability awareness", "mindfulness"],
+    "summary": "This book explores how a child who cannot see experiences different colours through other senses. It features Braille and textures and offers a unique way of perceiving the world.",
+    "age_range": "10+",
+    "availability": "https://www.ester.ee/search~S1*est/X?searchtype=t&searcharg=The%20Black%20Book%20of%20Colours&searchscope=1&SORT=DZ&extended=0&SUBMIT=OTSI",
+    "read_aloud": "https://www.youtube.com/watch?v=0sBPeJeSyPw",
+    "image": "book9.jpg"
   }
 ]
