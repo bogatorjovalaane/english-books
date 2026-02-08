@@ -153,5 +153,17 @@
     "availability": "https://www.ester.ee/search~S1*est/X?searchtype=t&searcharg=The%20Black%20Book%20of%20Colours&searchscope=1&SORT=DZ&extended=0&SUBMIT=OTSI",
     "read_aloud": "https://www.youtube.com/watch?v=0sBPeJeSyPw",
     "image": "book9.jpg"
+  },
+  {
+    "title": "Baby Goes to Market",
+    "author": "Atinuke",
+    "publisher": "Candlewick",
+    "year": 2017,
+    "themes": ["West African culture", "daily life", "community"],
+    "summary": "With a baby strapped to her back, Mama goes to the West African market to buy food. Without her notice, the baby puts different foods into the basket. This picture book showcases the bustling streets of West Africa and introduces young readers to a different culture through colourful illustrations.",
+    "age_range": "7+",
+    "availability": "https://www.ester.ee/search~S1*est/X?searchtype=t&searcharg=Baby%20Goes%20to%20Market&searchscope=1&SORT=DZ&extended=0&SUBMIT=OTSI",
+    "read_aloud": "https://www.youtube.com/watch?v=iGsTTaSLQbs",
+    "image": "book10.jpg"
   }
 ]
