@@ -50,7 +50,7 @@ const HowToUse = () => {
         <p>
           If any book sparks your interest, you can find an official cover, the
           author, and the themes. Themes help you choose the book that suits
-          your goals and desired topic. To view the book closely, please click
+          your goals and desired topic. The teacher is free to adjust the book to suit the language level of the learners. To view the book closely, please click
           on the title of the book.
         </p>
 
